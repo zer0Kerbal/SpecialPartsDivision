@@ -266,38 +266,22 @@ milestones:
     description: progress toward English (United States) <en-us.cfg> localization
     state: open
 
-  - title: Klockheed_Martian_Special_2.0
-    description: previous release
+  - title: 2.0.0.0-release
+    description: previous release 2.0.0.0-release
     state: open
 
-  - title: Klockheed_Martian_Special_2.0.1
-    description: previous release
+  - title: 2.0.1.0-release
+    description: previous release 
     state: open
 
-  - title: Klockheed_Martian_Special_2.0.1_otherzip
-    description: previous release
+  - title: 2.1.1.0-release
+    description: previous release 2.1.1.0-release
     state: open
 
-  - title: Klockheed_Martian_Special_2.1.
-    description: previous release
+  - title: 2.1.2.0-release
+    description: previous release 2.1.2.0-release
     state: open
 
-  - title: Klockheed_Martian_Special_2.1.1
-    description: previous release
-    state: open
-
-  - title: Klockheed_Martian_Special_2.1.
-    description: previous release
-    state: open
-
-  - title: Klockheed_Martian_Special_2.1.2
-    description: previous release
-    state: open
-
-  - title: Klockheed_Martian_Special_2.
-    description: previous release
-    state: open
-
-  - title: Klockheed_Martian_Special_2.1
-    description: previous release
+  - title: 2.1.0.0-release
+    description: previous release 2.1.0.0-release
     state: open
