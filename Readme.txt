@@ -2,24 +2,19 @@
 
 Klockheed Martian E- Special Parts Pack
 
----
+# Special Parts Division (KM/SPD)
 
-Installation:
------------------
-Installation:
-Important! Please follow the steps EVERY TIME you update a Klockheed Martian Mod! All public releases are located here:
-https://www.dropbox.com/sh/r93q90vpb...4h1_WtfFGa/KSP
-https://www.dropbox.com/?hf5fbeqadrk1aiu
+## by dtobi
 
-a) Download the latest version of the base Klockheed Martian Mod from here. It is just called "Klockheed_Martian".
-b) Download the desired Klockheed Martian mods (e.g., Klockheed_Martian_SSE for Space Shuttle Engines).
-c) Delete the Klockheed Martian base folder (GameData\Klockheed_Martian).
-d) If you update mod, delete its folder too (e.g., GameData\Klockheed_Martian_SSE)
-d) Unzip both files and copy the GameData folders to your GameData Folder.
-
-
-The base folder is required for common plugin functionality that is shared by all Klockheed Martian mods.
-
+this archive has been modified:
+* structure
+* part configs modified to reflect folder structure changes
+* contents removed
+  * plugins
+* contents added
+  * this readme.txt
+  * SpecialPartsDivision.version
+* by zer0Kerbal
 
 ------------------------------	 
 Credits and Acknowledgments
