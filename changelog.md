@@ -19,8 +19,8 @@
 
 ### Part Localization
 
-* [ ] create agency
-* [ ] run localizer
+* create agency
+* run localizer
 * Parts to localize
   * [fairing-grey.cfg]
   * [fairing-1-1.cfg]
@@ -48,9 +48,14 @@
   * [window.cfg]
   * [bay-1-short.cfg]
   * [bay-1.cfg]
+* create Localization/
+  * create <en-us.cfg>
+  * create [readme.md] v2.1.1.0
+  * create [quickstart.md] v1.0.1.0
 * updates #6 - Localization - Master
 * closes #7 - American English <us-en.cfg>
 * closes #23 - Part Localization
+
 
 ### Recreate Prior Releases
 
