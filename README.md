@@ -21,7 +21,7 @@ Klockheed Martian Special Parts Division, a parts addon for Kerbal Space Program
 
 adopted with *express* permission and brought to you by *Klockheed Martian*
 
-<img src="https://i.imgur.com/9insi36.png" alt="Ptero logo" width="25%" height="25%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SpecialPartsDivision/master/img/HeroLogo_1920x1920.png" alt="Special Parts Division" width="50%" height="50%">
 
 This is a set of special parts consisting of the following:
 
