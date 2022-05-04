@@ -70,7 +70,7 @@
   * closes #4 - 2.2.99.0 Create Documentation
   * closes #5 - 2.2.99.0 Create Social Media
 
-## Version 2.2.0.0
+## Version 2.2.0.0-release
 
 * raidernick
 * missing archive
@@ -93,7 +93,7 @@
 
 ---
 
-## Version 2.1.2.0
+## Version 2.1.2.0-release
 
 * closes #24 - Releases to be archived
 * closes #28 - 2.1.2.0-release
@@ -101,7 +101,7 @@
 
 ---
 
-## Version 2.1.1.0
+## Version 2.1.1.0-release
 
 * updates #24 - Releases to be archived
 * closes #27 - 2.1.1.0-release
@@ -109,7 +109,7 @@
 
 ---
 
-## Version 2.1.0.0
+## Version 2.1.0.0-release
 
 * Wet workshop parts
 * Hopefully a fix for the COM bug with the windows
@@ -118,7 +118,7 @@
 
 ---
 
-## Version 2.0.1.0
+## Version 2.0.1.0-release
 
 * updates #24 - Releases to be archived
 * closes #26 - 2.0.1.0-release
@@ -132,7 +132,7 @@
 
 ---
 
-## Version 2.0.0.0
+## Version 2.0.0.0-release
 
 ### Skylab IVA and new folder structure
 
@@ -146,7 +146,7 @@
 * updates #24 - Releases to be archived
 * closes #25 - 2.0.0.0-release
 
-## Version 0.3.0.0
+## Version 0.3.0.0-release
 
 ### More resizable parts and Skylab
 
@@ -156,7 +156,7 @@
 * Corrected the size of the large shrouds
 * missing release archive
 
-## Version 0.2.0.0
+## Version 0.2.0.0-release
 
 ### Tweakscale integration an mesh fixes
 
@@ -166,7 +166,7 @@
 
 ---
 
-## Version 0.1.0.0
+## Version 0.1.0.0-release
 
 * Initial release by dtobi
 * missing release archive
