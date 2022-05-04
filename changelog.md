@@ -120,15 +120,15 @@
 
 ## Version 2.0.1.0-release
 
-* updates #24 - Releases to be archived
-* closes #26 - 2.0.1.0-release
-
 ### New Klockheed Martian Structure and Tubes and Hatches
 
 * More stability and wet workshops
 * New Tweakscale
 * Less tight integration with km_lib.dll
 * Wet workshop parts
+
+* updates #24 - Releases to be archived
+* closes #26 - 2.0.1.0-release
 
 ---
 
