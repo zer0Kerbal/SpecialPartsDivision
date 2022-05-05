@@ -56,7 +56,6 @@
 * closes #7 - American English <us-en.cfg>
 * closes #23 - Part Localization
 
-
 ### Recreate Prior Releases
 
 * Releases
