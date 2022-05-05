@@ -16,6 +16,42 @@
 * Released for Kerbal Space Program 1.12.x
 
 ### Adoption
+### Tags
+
+* Add Missing Tags
+* all parts missing tags
+* add generic `tags = klockheed martian special parts division spd`
+  * will need to update to fill in part specific data
+* closes #36 - Add Missing Tags
+
+### Update Model Path
+
+* change model = path
+  * was: model = Klockheed_Martian_Special
+  * now: model = KlockheedMartian/SpecialPartsDivision
+  * now parts show up in game
+* closes #38 - Update Model Path
+
+### Asset Updates
+
+* create Assets/ folder
+* convert from mesh to MODEL
+* convert
+  * from tga to png
+  * was: tga (8.4 mb)
+  * now: png (1.8 mb)
+* rename
+  * models to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * duplicate textures
+  * duplicate models
+* relocate part.cfg to Parts/
+* closes #35 - Asset Updates
 
 ### Part Localization
 
