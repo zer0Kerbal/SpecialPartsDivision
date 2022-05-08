@@ -33,13 +33,13 @@ updated: 02 May 2022
 ### Flag
 
 <ul>
-  <li><a href="[https://forum.kerbalspaceprogram.com/index.php?/profile/57146-*/ ](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a>
+  <li><a href="[https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ ](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a>
 </ul>
 
 ### Agency
 
 <ul>
-  <li><a href="[https://forum.kerbalspaceprogram.com/index.php?/profile/57146-*/ ](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a>
+  <li><a href="[https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ ](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a>
 </ul>
 
 ### Special Thanks
