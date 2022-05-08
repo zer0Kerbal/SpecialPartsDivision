@@ -8,6 +8,7 @@ on:
       - opened
       - synchronize
       - reopened
+  workflow_dispatch:
 jobs:
   Validate .cfg files:
     runs-on: ubuntu-latest
