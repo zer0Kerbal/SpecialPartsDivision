@@ -12,8 +12,7 @@ updated: 04 Oct 2022 -->
 
 # Special Parts Division (SPD)
 
-*blurb*
-
+Special parts... _just special_... Klockheed Martian Special Parts Division, a parts addon for Kerbal Space Program.
 
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`dtobi`][dtobi]
