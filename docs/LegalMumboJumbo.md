@@ -34,7 +34,7 @@ updated: 15 May 2022
 
 ### Previous License
 
-[License](./LegalMumboJumbo/prevLicense.md)
+[License](./LegalMumboJumbo/PrevLicense.md)
 [top](#legal-mumbo-jumbo)
 
 ### Forum I
