@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | Special Parts Division (KM/SPD)                                   |
+| modName    | Special Parts Division (SPD)                                   |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-ND-4.0                                                      |
 | author     | dtobi and zer0Kerbal                                              |
