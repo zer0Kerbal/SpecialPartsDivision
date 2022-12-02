@@ -8,7 +8,7 @@ tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 LegalMumboJumbo.md v1.0.5.0
-Special Parts Division (KM/SPD)
+Special Parts Division (SPD)
 created: 01 Feb 2022
 updated: 30 Apr 2022
 -->
@@ -16,7 +16,7 @@ updated: 30 Apr 2022
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Special Parts Division (KM/SPD)
+# Special Parts Division (SPD)
 
 [Home](./index.md)
 
