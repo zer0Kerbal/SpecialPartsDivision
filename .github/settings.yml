@@ -1,8 +1,8 @@
-# settings.yml 1.0.9.2
-# CC BY-NC-ND 3.0 Unported
+# settings.yml 1.0.9.7
+# this file: CC BY-ND 4.0
 # zer0Kerbal
 # created 01 Jan 2022
-# updated 20 Apr 2022
+# updated 01 Oct 2022
 # These settings are synced to GitHub by https://probot.github.io/apps/settings/
 # See https://docs.github.com/en/rest/reference/repos#update-a-repository for all available settings.
 
@@ -11,47 +11,13 @@ repository:
   name: SpecialPartsDivision
 
   # A short description of the repository that will show up on GitHub
-  description: Klockheed Martian Special Parts Division, a parts addon for Kerbal Space Program.
+  description: Klockheed Martian Special Parts Division (KM/SPD), a parts addon for Kerbal Space Program.
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/208046-*/
 
   # A comma-separated list of topics to set on the repository
-  topics: klockheed-martian,klockheed,martian,special-parts,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedk,dtobi
-
-  # Either `true` to make the repository private, or `false` to make it public.
-  private: false
-
-  # Either `true` to enable issues for this repository, `false` to disable them.
-  has_issues: true
-
-  # Either `true` to enable projects for this repository, or `false` to disable them.
-  # If projects are disabled for the organization, passing `true` will cause an API error.
-  has_projects: true
-
-  # Either `true` to enable the wiki for this repository, `false` to disable it.
-  has_wiki: false
-
-  # Either `true` to enable downloads for this repository, `false` to disable them.
-  has_downloads: true
-
-  # Updates the default branch for this repository.
-  default_branch: master
-
-  # Either `true` to allow squash-merging pull requests, or `false` to prevent
-  # squash-merging.
-  allow_squash_merge: true
-
-  # Either `true` to allow merging pull requests with a merge commit, or `false`
-  # to prevent merging pull requests with merge commits.
-  allow_merge_commit: true
-
-  # Either `true` to allow rebase-merging pull requests, or `false` to prevent
-  # rebase-merging.
-  allow_rebase_merge: true
-
-  # Either `true` to enable automatic deletion of branches on merge, or `false` to disable
-  delete_branch_on_merge: true
+  topics: klockheed-martian,klockheed,martian,special-parts,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedk,dtobi,contributions-welcome,hacktoberfest,mods
 
 # Labels: define labels for Issues and Pull Requests
 labels:
@@ -131,7 +97,11 @@ labels:
 
   - name: "issue: license"
     color: FBCA04
-    description: issue type
+    description: having to do with license/licensing
+
+  - name: "issue: image"
+    color: FBCA04
+    description: deals with images and imgbot
 
   - name: "issue: install"
     color: FBCA04
@@ -145,16 +115,6 @@ labels:
     color: FBCA04
     description: issue originates from external sources
 
-  - name: "type: localization"
-    oldname: localization
-    # include the old name to rename an existing label
-    color: FFFFF0
-    description: related to localization and translations
-
-  - name: "type: infrastructure"
-    color: ffdda8
-    description: improvements or additions to project infrastructure
-
   - name: "type: automation"
     color: fbca04
     description: issues for automation actions
@@ -162,6 +122,15 @@ labels:
   - name: "type: fix"
     color: 91ca55
     description: Iterations on existing features or infrastructure.
+
+  - name: "type: infrastructure"
+    color: ffdda8
+    description: improvements or additions to project infrastructure
+
+  - name: "type: localization"
+    oldname: localization
+    color: FFFFF0
+    description: related to localization and translations
 
   - name: "type: testing"
     color: fbca04
@@ -176,9 +145,17 @@ labels:
     color: d4c5f9
     description: Questions, queries, posers, proposals and info that requires discussion.
 
+  - name: "type: imgbot"
+    color: d4c5f9
+    description: imgbot automation.
+
   - name: "type: docs"
     color: fef2c0
     description: Related to documentation and information.
+
+  - name: "type: pages"
+    color: fef2c0
+    description: Related to GitHub pages documentation and information.
 
   - name: "type: enhancement"
     oldname: "Mod-enhancement"
@@ -252,36 +229,64 @@ labels:
     color: e6e6e6
     description: No action will be taken at this time
 
+  - name: "hacktoberfest"
+    color: ff9900
+    description: flag for entry into hacktoberfest
+
+  - name: "hacktoberfest-accepted"
+    color: ff9900
+    description: flag for stating PR is accepted as appropriate for hacktoberfest
+
+  - name: "good-first-issue"
+    color: AEF923
+    description: flag for inclusion into good-first-issues listing
+
+  - name: "contributions-welcome"
+    color: AEF923
+    description: flag for inclusion into contributions-welcome listing
+
+  - name: "beginner-friendly"
+    color: AEF923
+    description: flag for inclusion into beginner-friendly listing
+
+  - name: "invalid"
+    color: FFFF00
+    description: flagged as invalid
+
+  - name: "spam"
+    color: EB212E
+    description: spam flag
+
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
-  - title: 2.2.99.0-adoption
-    description: progress toward 2.2.99.0-adoption
-    state: open
+  # - title: 2.2.99.0-adoption
+  #   description: progress toward 2.2.99.0-adoption
+  #   state: open
 
   - title: Localization - Master
     description: progress toward total localization
     state: open
 
-  - title: Localization - English (United States) <en-us.cfg>
-    description: progress toward English (United States) <en-us.cfg> localization
-    state: open
+  # - title: Localization - English (United States) <en-us.cfg>
+  #   description: progress toward English (United States) <en-us.cfg> localization
+  #   state: open
 
-  - title: 2.0.0.0-release
-    description: previous release 2.0.0.0-release
-    state: open
+  # - title: 2.0.0.0-release
+  #   description: previous release 2.0.0.0-release
+  #   state: open
 
-  - title: 2.0.1.0-release
-    description: previous release 
-    state: open
+  # - title: 2.0.1.0-release
+  #   description: previous release 
+  #   state: open
 
-  - title: 2.1.1.0-release
-    description: previous release 2.1.1.0-release
-    state: open
+  # - title: 2.1.1.0-release
+  #   description: previous release 2.1.1.0-release
+  #   state: open
 
-  - title: 2.1.2.0-release
-    description: previous release 2.1.2.0-release
-    state: open
+  # - title: 2.1.2.0-release
+  #   description: previous release 2.1.2.0-release
+  #   state: open
 
-  - title: 2.1.0.0-release
-    description: previous release 2.1.0.0-release
-    state: open
+  # - title: 2.1.0.0-release
+  #   description: previous release 2.1.0.0-release
+  #   state: open
