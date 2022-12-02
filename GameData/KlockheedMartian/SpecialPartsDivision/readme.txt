@@ -1,8 +1,8 @@
-# Special Parts Division (KM/SPD)
+# Special Parts Division (SPD)
 
 Klockheed Martian E- Special Parts Pack
 
-# Special Parts Division (KM/SPD)
+# Special Parts Division (SPD)
 
 ## by dtobi
 
