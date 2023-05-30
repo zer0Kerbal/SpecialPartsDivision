@@ -4,19 +4,22 @@ title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- ManualInstallation.md v1.1.8.1
+<!-- ManualInstallation.md v1.0.1.0
 Special Parts Division (SPD)
-created: 01 Oct 2019
-updated: 29 Jul 2022 -->
+created: 01 May 2022
+updated: 30 May 2023
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.1
+created: 01 Feb 2022
+updated: 26 Apr 2023
 
-# Special Parts Division (SPD)
+based upon work by Lisias -->
+
+## [Special Parts Division (SPD)][mod]
 
 [Home](./index.md)
 
-Special parts... _just special_... Klockheed Martian Special Parts Division, a parts addon for Kerbal Space Program.
+Special parts... _just special_... [Klockheed Martian](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd) [Special Parts Division][CURSFG:url], a special parts addon for Kerbal Space Program.
 
 ## Installation Instructions
 
@@ -52,26 +55,40 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [KlockheedMartian]
-      + [SpecialPartsDivision]
-        + [Compatibility]
+      + [Klockheed Martian Ltd (KML)][KML]
+        + [Agency]
           ...
-        + [Contracts]
+        + [Config]
           ...
         + [Flags]
           ...
         + [Localization]
           ...
+      + [SpecialPartsDivision][mod]
+        + [Assets]
+          ...
+        + [Compatibility]
+          ...
+        + [Config]
+          ...
+        + [Contracts]
+          ...
+        + [Localization]
+          ...
         + [Parts]
+          ...
+        + [Sounds]
+          ...
+        + [Spaces]
           ...
         * #.#.#.#.htm
         * Attributions.htm
-        * CC-BY-ND-4.0.txt
+        * CC-BY-ND-4.0+ARR.txt
         * changelog.md
         * ManualInstallation.htm
         * readme.htm
         * SpecialPartsDivision.version
     ...
-    * [Module Manager][mm] or [Module Manager /L][mml]
     * ModuleManager.ConfigCache
   * KSP.log
   ...
@@ -82,3 +99,8 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 * [Klockheed Martian Ltd (KML)][KML]
 
 [KML]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-* "Klockheed Martian Ltd (KML)"
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SpecialPartsDivision "Special Parts Division (SPD)
