@@ -34,15 +34,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >   * Other inflatable components
 >   * Skylab Laboratory
 >   * Doors, windows and supplies for wet workshops
->
-> This is the development thread. All parts are tested and seem to work but I may change > things here and there.
->
-> If you download this pack, please be prepared to:
-> a) provide feedback if you like or dislike something
-> B) provide bug reports and assistance in finding bugs
->
-> The parts are quite light on the memory. For example, all structural parts (cargo > bays, tubes, etc.) use only one (one for all!) bump mapped texture. Fun without regret!
->
 
 ### See more
 
@@ -73,7 +64,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Contracts for these glorious parts
 > * Sample crafts/subassemblies
 > * Variant textures and model updates (add/improve: lights, iva, hatches et al)
-> * Converting from FireSpitter to Stock and/or KSPWheel  
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
@@ -86,7 +76,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Dependencies
 
-* [Klockheed Martian Ltd (KM/L)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
+* [Klockheed Martian Ltd (KML)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
 
 ### Recommends
@@ -115,7 +105,6 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [Pteron (MSRV)](https://www.curseforge.com/kerbal/Pteron)
 * [ScrapYard (SCRAP)](https://www.curseforge.com/kerbal/ksp-mods/ScrapYard)
 * [SimpleConstruction! (SCON)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)
-* [SimpleLife! (LIFE)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLife)
 * [SimpleLogistics! (SLOG)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics)
 * [SimpleNotes! (NOTE)](https://www.curseforge.com/kerbal/ksp-mods/Notes)
 * [Stock Inline Lights (SIL)](https://www.curseforge.com/kerbal/ksp-mods/StackInlineLights)
@@ -133,9 +122,8 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Supports
 
-* [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
-* [TweakScale (TWK)][twk]
 * [ModularManagement (MM)][MM] or [Module Manager][omm]
+* [TweakScale (TWK)][twk]
 
 ### Tags
 
@@ -211,7 +199,7 @@ Comment, click, like, share, up-vote, subscribe
 
 [0:log]: https://licensebuttons.net/i/l/by-nc-nd/transparent/33/66/99/76x22.png "CC BY-NC-ND 4.0"
 [0:url]: https://creativecommons.org/licenses/by-nc-nd/4.0/ "CC BY-NC-ND 4.0"
-[0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0+zer0Kerbal-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-ND 4.0"
+[0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-ND 4.0"
 
 [LIC:url]: https://creativecommons.org/licenses/by-nd/4.0/ "CC BY-ND 4.0+ARR"
 [LIC:log]: https://licensebuttons.net/i/l/by-nd/transparent/33/66/99/76x22.png "CC BY-ND 4.0+ARR"
