@@ -259,7 +259,10 @@ labels:
     description: spam flag
 
 # Milestones: define milestones for Issues and Pull Requests
-# milestones:
-#   - title: Localization - Master
-#     description: progress toward total localization
-#     state: open
+milestones:
+  - title: Localization - Master
+    description: progress toward total localization
+    state: open
+  - title: 2.2.99.0-adoption
+    description: progress toward 2.2.99.0-adoption
+    state: open
