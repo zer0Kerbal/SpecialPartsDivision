@@ -10,12 +10,21 @@
 | spacedock  | (https://spacedock.info/mod/3024)                                 |
 | ckan       | SpecialPartsDivision                                              |
 
-## Version 2.2.99.0-adoption `<EDITION>` edition
+## Version 2.2.99.0-adoption - `<Thank you dtobi>` edition
 
-* 10 May 2022
-* Released for Kerbal Space Program 1.12.x
+* Released
+  * 30 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Adoption
+* 📌 Pinned
+  * Dependencies:
+    * [Klockheed Martian Ltd (KML)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
+
+## Change Summary 2.2.99.0
+
+### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
+
 ### Tags
 
 * Add Missing Tags
