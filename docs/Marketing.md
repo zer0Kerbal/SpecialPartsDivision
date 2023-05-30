@@ -6,7 +6,7 @@ tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Marketing.md v1.0.1.0
 Special Parts Division (SPD)
-created: 13 Apr 2022
+created: 01 May 2022
 updated: 30 May 2023
 
 TEMPLATE: Marketing.md v1.0.3.0
