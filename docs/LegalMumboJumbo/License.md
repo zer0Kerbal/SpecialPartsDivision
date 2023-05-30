@@ -10,7 +10,7 @@ created: 01 Feb 2022
 updated: 07 Mar 2022
 -->
 
-# CC SA-ND 4.0
+# CC SA-ND 4.0+ARR
 
 ## Creative Commons
 
