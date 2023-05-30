@@ -1,8 +1,8 @@
 # Changelog  
   
-| modName    | Special Parts Division (SPD)                                      |
+| modName    | Special Parts Division (SPD) by dtobi                             |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-ND-4.0                                                      |
+| license    | CC-BY-ND-4.0+ARR                                                  |
 | author     | dtobi and zer0Kerbal                                              |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208046-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SpecialPartsDivision)   |
