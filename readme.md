@@ -14,7 +14,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
-Special parts... _just special_... [Klockheed Martian][kml] [Special Parts Division][CURSFG:url], a special parts addon for Kerbal Space Program.
+Special parts... _just special_... [Klockheed Martian](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd) [Special Parts Division][CURSFG:url], a special parts addon for Kerbal Space Program.
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`dtobi`][auth-link]
 
