@@ -139,7 +139,7 @@ parts, config
 ### Credits and Special Thanks
 
 * [dtobi][auth-link] for creating this glorious parts addon!
-* see [Attribution][attrb] for
+* see [Attribution][attrb] for more
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
@@ -188,7 +188,7 @@ Comment, click, like, share, up-vote, subscribe
 [parts]: https://zer0kerbal.github.io/SpecialPartsDivision/PartsCatalog "Parts Catalog"
 [pages]: https://zer0kerbal.github.io/SpecialPartsDivision "GitHub Pages"
 
-<!--- mod -->
+<!--- shields -->
 [SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpecialPartsDivision/master/json/mod.json
 [SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
