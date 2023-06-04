@@ -10,8 +10,6 @@ Special Parts Division (SPD)
 created: 01 May 2022
 updated: 30 May 2023
 
-based upon work by LisiasT -->
-
 TEMPLATE: Notices.md v1.0.2.0
 created: 13 Apr 2022
 updated: 26 Apr 2023
@@ -28,6 +26,7 @@ based upon work by LisiasT -->
 ## Trademarks
 
 * "Klockheed Martian" is trademark of dtobi
+* "Klockheed Martian Engine Manufacture" is trademark of dtobi
 * "E- Special Parts Pack" is trademark of dtobi
 * "Special Parts Division" is trademark of zer0Kerbal
 * "KM/SPD" & "SPD" are trademark of zer0Kerbal
