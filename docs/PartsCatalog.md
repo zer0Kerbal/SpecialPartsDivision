@@ -24,7 +24,7 @@ Special parts... _just special_... [Klockheed Martian](https://www.curseforge.co
 
 ## Parts Catalog
 
-This add-on adds many (?) parts
+This add-on adds *special* parts
 <!-- no toc -->
 * [Part](#part)
 
@@ -32,7 +32,7 @@ This add-on adds many (?) parts
 
 ### Part
 
- <img src="https://raw.githubusercontent.com/zer0Kerbal/SpecialPartsDivision/master/docs/Thumbs/
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/SpecialPartsDivision/master/docs/thumbs/
 " alt="
 " width="25%" height="25%" /> 
 
