@@ -3,7 +3,7 @@ permalink: /License.html
 title: CC BY-NC-ND 4.0
 ---
 <!-- CC-BY-NC-ND-4.0.md v1.0.1.0
-<MOD-NAME> <ABBV>
+Special Parts Division (SPD)
 created: 01 Feb 2022
 updated: 07 Mar 2022 -->
 
