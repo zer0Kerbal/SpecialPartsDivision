@@ -13,17 +13,45 @@
 ## Version 2.2.99.0-adoption - `<Thank you dtobi>` edition
 
 * Released
-  * 30 May 2023
+  * 04 Jun 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 * 📌 Pinned
   * Dependencies:
     * [Klockheed Martian Ltd (KML)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
+  * search for `spd` in editors
 
 ## Change Summary 2.2.99.0
 
+* THIS IS A PRERELEASE
+  * Do not use on saves you care about
+    * some parts will have changes:
+      * node attachment points
+      * physical size might change to match stock sizes
+  * all parts are showing in editor and flight
+  * functionality is limited
+    * relies on missing plugin
+    * dtobi has licensed to zer0kerbal
+* Modernized, and localized all twenty-six specialized parts
+* Compatibility (experimental)
+  * [DRELite.cfg]
+  * [KMTools.cfg]
+  * [TweakScale.cfg]
+
 ### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Changes 2.2.99.0
+
+### Recreate Prior Releases
+
+* Releases
+* closes #25 - 2.0.0.0-release
+* closes #26 - 2.0.1.0-release
+* closes #27 - 2.1.1.0-release
+* closes #28 - 2.1.2.0-release
+* closes #29 - 2.1.0.0-release
+* closes #24 - Releases to be archived
 
 ### Tags
 
@@ -101,23 +129,17 @@
 * closes #7 - American English <us-en.cfg>
 * closes #23 - Part Localization
 
-### Recreate Prior Releases
 
-* Releases
-* closes #24 - Releases to be archived
-* closes #25 - 2.0.0.0-release
-* closes #26 - 2.0.1.0-release
-* closes #27 - 2.1.1.0-release
-* closes #28 - 2.1.2.0-release
-* closes #29 - 2.1.0.0-release
 
-### Status
+### Status 2.2.99.0
 
 * Issues
-  * closes #2 - Special Parts Division 2.2.99.0-adoption <NAME>
+  * closes #2 - Special Parts Division (SPD) 2.2.99.0-adoption `<Thank you dtobi>` edition
   * closes #3 - 2.2.99.0 Verify Legal Mumbo Jumbo
   * closes #4 - 2.2.99.0 Create Documentation
   * closes #5 - 2.2.99.0 Create Social Media
+
+---
 
 ## Version 2.2.0.0-release
 
