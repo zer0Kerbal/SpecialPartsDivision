@@ -253,6 +253,7 @@
 
 ## Version 0.1.0.0-release
 
+* 01 Jun 2014
 * Initial release by dtobi
 * missing release archive
 
