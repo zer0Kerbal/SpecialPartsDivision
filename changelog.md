@@ -26,14 +26,14 @@
 
 * THIS IS A PRERELEASE
   * Do not use on saves you care about
-    * some parts will have changes:
+    * some parts will have future changes:
       * node attachment points
-      * physical size might change to match stock sizes
+      * physical size, cost, mass et cetera might change to match stock
+* Modernized, and localized all twenty-six specialized parts
   * all parts are showing in editor and flight
   * functionality is limited
     * relies on missing plugin
     * dtobi has licensed to zer0kerbal
-* Modernized, and localized all twenty-six specialized parts
 * Compatibility (experimental)
   * [DRELite.cfg]
   * [KMTools.cfg]
@@ -43,33 +43,28 @@
 
 ### Changes 2.2.99.0
 
-### Recreate Prior Releases
+#### Recreate Prior Releases
 
 * Releases
-* closes #25 - 2.0.0.0-release
-* closes #26 - 2.0.1.0-release
-* closes #27 - 2.1.1.0-release
-* closes #28 - 2.1.2.0-release
 * closes #29 - 2.1.0.0-release
+* closes #28 - 2.1.2.0-release
+* closes #27 - 2.1.1.0-release
+* closes #26 - 2.0.1.0-release
+* closes #25 - 2.0.0.0-release
 * closes #24 - Releases to be archived
 
-### Tags
+#### Parts 2.2.99.0
 
-* Add Missing Tags
-* all parts missing tags
-* add generic `tags = klockheed martian special parts division spd`
-  * will need to update to fill in part specific data
-* closes #36 - Add Missing Tags
+* 26 parts in total
+  * Lint
+  * Modernize
+  * Localize
+  * Done (mostly):
+    * Nodes
+    * inventory
+    * DRAG_CUBES
 
-### Update Model Path
-
-* change model = path
-  * was: model = Klockheed_Martian_Special
-  * now: model = KlockheedMartian/SpecialPartsDivision
-  * now parts show up in game
-* closes #38 - Update Model Path
-
-### Asset Updates
+### Asset Updates 2.2.99.0
 
 * create Assets/ folder
 * convert from mesh to MODEL
@@ -84,52 +79,71 @@
   * model pointers (.png et al to .dds)
   * model texture pointers to new names
 * relocate assets to Assets/
+* change model = path
+  * was: model = Klockheed_Martian_Special
+  * now: model = KlockheedMartian/SpecialPartsDivision
+  * now parts show up in game
 * eliminate
   * duplicate textures
   * duplicate models
 * relocate part.cfg to Parts/
 * closes #35 - Asset Updates
+* closes #38 - Update Model Path
 
-### Part Localization
+#### Compatibility 2.1.99.0
 
-* create agency
-* run localizer
-* Parts to localize
-  * [fairing-grey.cfg]
-  * [fairing-1-1.cfg]
-  * [fairing-1.cfg]
-  * [endpoint-1.cfg]
-  * [decoupler-3-long.cfg]
-  * [decoupler-1-long.cfg]
-  * [decoupler-1.cfg]
-  * [decoupler-3.cfg]
-  * [crocodile-2.cfg]
-  * [crocodile-1.cfg]
-  * [parttank.cfg]
-  * [refurbish.cfg]
-  * [partbox.cfg]
-  * [part.cfg]
-  * [skylab.cfg]
-  * [hatch.cfg]
-  * [lens.cfg]
-  * [engine-mount1.cfg]
-  * [part.cfg]
-  * [inflatable.cfg]
-  * [infla.cfg]
-  * [infla.cfg]
-  * [door.cfg]
-  * [window.cfg]
-  * [bay-1-short.cfg]
-  * [bay-1.cfg]
+* Split out from part configs:
+  * [DRELite.cfg] (experimental)
+  * [KMTools.cfg] (experimental)
+  * [TweakScale.cfg] (experimental)
+
+### Part Localization 2.2.99.0
+
+* 26 parts to localize
 * create Localization/
-  * create <en-us.cfg>
-  * create [readme.md] v2.1.1.0
-  * create [quickstart.md] v1.0.1.0
-* updates #6 - Localization - Master
+  * [en-us.cfg] v1.0.0.0
+  * [readme.md] v2.1.2.1
+  * [readme-ru.md] v1.0.0.0 - spasibo [evanisrael](https://github.com/evanisrael)
+  * [quickstart.md] v1.0.2.0
+  * [quickstart-ru.md] v1.0.2.0 - spasibo [evanisrael](https://github.com/evanisrael)
+* Add
+  * all parts lacking tags
+  * will update in future to fill in part specific data
 * closes #7 - American English <us-en.cfg>
 * closes #23 - Part Localization
+* closes #36 - Add Missing Tags
+* updates #6 - Localization - Master
 
+#### Hero Logo/Cover image 2.2.99.0
 
+* Create
+* HeroLogo.png
+  * All Rights Reserved by [zer0Kerbal](https://github.com/zer0Kerbal)
+  * copy/convert to HeroLogo.jpg
+
+#### Documentation 2.2.99.0
+
+* readme
+* .version
+* changelog.md (this)
+* docs/
+  * [`_config.yml`] v1.0.3.0
+  * [404.md] v1.0.4.0
+  * [Attribution.md] v1.0.9.0
+  * [LegalMumboJumbo.md] v1.0.6.0
+  * [Localizations.md] v1.1.9.0
+  * [ManualInstallation.md] v1.1.9.1
+  * [Marketing.md] v1.0.3.0
+  * [Notices.md] v1.0.2.0
+  * [PartsCatalog.md] v1.1.4.3
+  * [Why.md] v1.1.1.1
+
+#### Update License
+
+* Update
+  * Updated License: {CC BY-ND 4.0+zer0Kerbal}
+  * licensed directly with original author [dtobi](https://github.com/dtobi)
+    * was: {CC BY-NC-ND 3.0+zer0Kerbal}
 
 ### Status 2.2.99.0
 
