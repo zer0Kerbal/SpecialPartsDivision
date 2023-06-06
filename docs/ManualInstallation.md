@@ -103,4 +103,4 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
 
-[mod]: https://www.curseforge.com/kerbal/ksp-mods/SpecialPartsDivision "Special Parts Division (SPD)
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SpecialPartsDivision "Special Parts Division (SPD)"
